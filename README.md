@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "engineering devops"\n
+echo "devops"\n
