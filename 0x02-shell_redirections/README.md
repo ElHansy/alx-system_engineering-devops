@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Shell, I/O Redirection'\n
+echo "Shell Redirection"\n
