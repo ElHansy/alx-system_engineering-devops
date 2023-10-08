@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -ic "^a" /etc/ssh/sshd_config |wc -l
+grep -ic "^a" /etc/ssh/sshd_config
